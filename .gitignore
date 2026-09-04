@@ -1,0 +1,27 @@
+# Secrets
+.env
+*.key
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Local data and logs
+*.log
+*.db
+*.sqlite3
+.DS_Store
+Thumbs.db
+
+# Source credential files are local-only
+Kimi k3 API Key.txt
+MySQL Root User Password.txt
+
