@@ -8,6 +8,7 @@ __pycache__/
 *.py[cod]
 .pytest_cache/
 .ruff_cache/
+*.egg-info/
 
 # Node
 frontend/node_modules/
@@ -20,8 +21,8 @@ frontend/.vite/
 *.sqlite3
 .DS_Store
 Thumbs.db
+backups/
 
 # Source credential files are local-only
 Kimi k3 API Key.txt
 MySQL Root User Password.txt
-
