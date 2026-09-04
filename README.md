@@ -2,6 +2,8 @@
 
 AI 动态生成案件、玩家自由审问 NPC，并通过核验证据构建完整指控理论的单人推理游戏。
 
+*An AI-assisted single-player detective game featuring generated cases, free-form NPC interrogation, evidence verification, and structured accusation building.*
+
 ## 版本与进度
 
 - 当前版本：**V2**
